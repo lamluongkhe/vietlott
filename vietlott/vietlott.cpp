@@ -7,7 +7,7 @@
 //void xuat(int arr[], int sizearr);
 //void Kq(int arr2[], int sizearr);
 //void Sosanh(int arr[], int arr2[], int sizearr);
-//
+////testne
 //int main()
 //{
 //	const int sizearr = 6;
